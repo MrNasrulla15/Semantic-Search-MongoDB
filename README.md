@@ -37,13 +37,6 @@ For example, a query like `cheap gaming laptop` can still return content such as
 
 ![Architecture Diagram](docs/architecture-diagram.svg)
 
-## Screenshots
-
-Add your real screenshots here before final submission.
-
-![Home Screen](docs/screenshots/home.svg)
-![Results Screen](docs/screenshots/results.svg)
-
 ## Project structure
 
 ```text
