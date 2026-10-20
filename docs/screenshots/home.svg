@@ -1,6 +1,0 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
-  <rect width="900" height="500" fill="#f3f4f6"/>
-  <rect x="40" y="40" width="820" height="420" fill="#ffffff" stroke="#9ca3af" stroke-width="2"/>
-  <text x="60" y="90" font-family="Arial" font-size="28" font-weight="700" fill="#111827">Screenshot Placeholder</text>
-  <text x="60" y="130" font-family="Arial" font-size="20" fill="#374151">Replace this file with an actual app screenshot</text>
-</svg>

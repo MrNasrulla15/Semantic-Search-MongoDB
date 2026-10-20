@@ -1,0 +1,26 @@
+{
+  "name": "semantic-search-engine-mern",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Production-ready Semantic Search Engine using MongoDB Atlas Vector Search, Google Gemini Embeddings, React 18, and Express",
+  "scripts": {
+    "test": "npm --prefix backend test && npm --prefix frontend test",
+    "test:backend": "npm --prefix backend test",
+    "test:frontend": "npm --prefix frontend test",
+    "seed": "npm --prefix backend run seed",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "semantic-search",
+    "vector-search",
+    "mongodb-atlas",
+    "gemini-embeddings",
+    "react18",
+    "express",
+    "vitest"
+  ],
+  "author": "Nasrulla",
+  "license": "MIT"
+}
